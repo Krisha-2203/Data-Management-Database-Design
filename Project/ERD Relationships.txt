@@ -1,0 +1,33 @@
+ERD Relationships
+
+1. Virtual Idol and Live Stream - one to Zero-or-many 
+2. Fan and Youtube Channels - Many-to-many
+3. Fan and Review - one to zero-or-many
+4. Fan to donations - one to zero-or-many
+5. Live Stream and Topic - one to zero-or-many 
+6. Painter and Virtual Image - one to one-or-many
+7. Motion Capture Specialist and Virtual Image - one to one-or-many
+8. Virtual Idol and Merchandise - one to zero-or-many 
+9. Virtual Idol and Ad Placements - one to zero-or-many
+10. Motion Capture Equipment and Streamer - zero-or-many to one 
+11. Virtual Idol and Platform - one to one-or-many
+12. Fan and Platform - one to one-or-many
+13. Live Stream and Viewer - one to zero-or-many 
+14. Gift and Donation - one to zero-or-many
+15. Sponsor and Event - one to zero-or-many
+16. Ad Placement and Event - one to zero-or-many
+17. Streamer and Equipment Cost - one to many 
+18. Virtual Idol and Vocal Changer - one to one-or-many
+19. Fan and Gift - one to zero-or-many 
+20. Live stream and topic - one to one-or-many  
+21. youtube channel to live stream - one&one only to one 
+22. youtube channel to topic - one-or-many to zero-or-many
+23. virtual idol to motion capture specialist - one to many
+24. Virtual idol to platform - one to one-or-many 
+25. virtual idol to donations - one to zero-or-many
+26. youtube channel to review - one to many 
+27. platform to live stream  - one to one&one only 
+28. ad placements to platform - zero-or-many to zero-or-many
+29. Fan to platform subscription - one to one&one only 
+30. Fan to youtube channel join date - one to one&one only 
+
